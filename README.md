@@ -1,4 +1,8 @@
-# vue-mutate-props
+# This is why one should not mutate props in vue
+
+An example that show why one should not mutate props in Vue.
+
+without explanation :'(
 
 ## Project setup
 ```
@@ -9,16 +13,3 @@ yarn install
 ```
 yarn serve
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
